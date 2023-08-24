@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sirmalev
+- 👋 Hi, I’m @sirmalev and im a software developer
 - 👀
 - 🌱 
 - 💞️ 
