@@ -2,7 +2,7 @@
 - 👀
 - 🌱 
 - 💞️ 
-- 📫 For contact.. sir.alonmalev@gmail.com
+- 📫 sir.alonmalev@gmail.com
 
 <!---
 sirmalev/sirmalev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
