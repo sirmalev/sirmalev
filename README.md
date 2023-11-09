@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sirmalev and im a software developer
+- 👋 Hi, I’m @sirmalev and im a web frontend developer
 - 👀
 - 🌱 
 - 💞️ 
-- 📫 You can reach me on sir.alonmalev@gmail.com
+- 📫 For contact.. sir.alonmalev@gmail.com
 
 <!---
 sirmalev/sirmalev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
