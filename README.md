@@ -1,6 +1,6 @@
 Hi,
 I'm a frontend developer,
-Web and app developer
+Web and app developer.
 I will upload here some of my projects and i would be happy to get a review/job/contribution requests.
 you can reach me on sir.alonmalev@gmail.com.
 Or sir.malev on Discord.
