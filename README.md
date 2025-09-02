@@ -23,6 +23,7 @@ Here are some of the technologies I've worked with:
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-734F96?style=for-the-badge&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
