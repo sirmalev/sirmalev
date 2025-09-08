@@ -96,8 +96,10 @@ A full-stack mobile app for collaborative task management, built with Flutter an
 
 A personal portfolio website for automation consulting services. The backend is built with <b>Node.js</b> and <b>Express</b>, containerized using <b>Docker</b>, and served through an <b>Nginx</b> reverse proxy on a Google Cloud VM.
 <br/><br/>
-<a href="https://www.google.com/search?q=https://github.com/sirmalev/ag-tech-website" target="_blank"><strong>Explore the code »</strong></a>
-<a href="https://www.google.com/search?q=http://aloutomation.guru/" target="_blank" style="margin-left: 10px;"><strong>Visit the live site »</strong></a>
+<a href="https://github.com/sirmalev/ag-tech-website" target="_blank"><strong>Explore the code »</strong></a>
+<br/><br/>
+
+<a href="https://aloutomation.guru/" target="_blank" style="margin-left: 10px;"><strong>Visit the live site »</strong></a>
 
 
 </div>
