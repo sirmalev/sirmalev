@@ -86,6 +86,26 @@ A full-stack mobile app for collaborative task management, built with Flutter an
 
 </tr>
 
+<tr>
+
+<td width="100%">
+
+<h3 align="center">Group Task Management App (TeamBuzz)</h3>
+
+<div align="center">
+
+A full-stack mobile app for collaborative task management, built with Flutter and Firebase. Features real-time updates, a point-based reward system, location-based notifications, and more.
+
+<br/><br/>
+
+<a href="https://github.com/sirmalev/GroupTaskManagementApp" target="_blank"><strong>Explore the code »</strong></a>
+
+</div>
+
+</td>
+
+</tr>
+
 </table>
 
 
