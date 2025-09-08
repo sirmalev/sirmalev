@@ -22,11 +22,13 @@ I'm a Practical Software Engineer and a recent graduate (with distinction) from 
 
 
 
+
 Here are some of the technologies I've worked with:
 
 
-<p align="center">
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -48,7 +50,6 @@ Here are some of the technologies I've worked with:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</p>
 
 
 ---
