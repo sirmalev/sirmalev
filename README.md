@@ -10,7 +10,7 @@ I'm a Practical Software Engineer and a recent graduate (with distinction) from 
 
 - 🔭 I’m looking for my first full-time role as a Software / DevOps Engineer.
 
-- 💬 Ask me about Flutter, Firebase, or my final project, TeamBuzz!
+- 💬 Ask me about Fullstack, Flutter, Firebase, or my final project, TeamBuzz!
 
 
 
@@ -90,15 +90,15 @@ A full-stack mobile app for collaborative task management, built with Flutter an
 
 <td width="100%">
 
-<h3 align="center">Group Task Management App (TeamBuzz)</h3>
+<h3 align="center">AG Technology Website</h3>
 
 <div align="center">
 
-A full-stack mobile app for collaborative task management, built with Flutter and Firebase. Features real-time updates, a point-based reward system, location-based notifications, and more.
-
+A personal portfolio website for automation consulting services. The backend is built with <b>Node.js</b> and <b>Express</b>, containerized using <b>Docker</b>, and served through an <b>Nginx</b> reverse proxy on a Google Cloud VM.
 <br/><br/>
+<a href="https://www.google.com/search?q=https://github.com/sirmalev/ag-tech-website" target="_blank"><strong>Explore the code »</strong></a>
+<a href="https://www.google.com/search?q=http://aloutomation.guru/" target="_blank" style="margin-left: 10px;"><strong>Visit the live site »</strong></a>
 
-<a href="https://github.com/sirmalev/GroupTaskManagementApp" target="_blank"><strong>Explore the code »</strong></a>
 
 </div>
 
