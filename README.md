@@ -60,9 +60,7 @@ Here are some of the technologies I've worked with:
 
 
 
-Here is a project I'm proud of. I'm currently working on developing more personal projects to showcase my skills.
-
-
+Here are some projects I'm proud to share:
 
 <table>
 
